@@ -1,6 +1,6 @@
 # 🚗 **CIFAR-10 Image Classification using Convolutional Neural Networks (CNN)** 🐦
 
-This project demonstrates an image classification model built using Convolutional Neural Networks (CNNs) to classify images from the **CIFAR-10 dataset**. Achieved an impressive **test accuracy of 81.81%!**
+This project demonstrates an image classification model built using Convolutional Neural Networks (CNNs) to classify images from the **CIFAR-10 dataset**. Achieved an impressive **test accuracy of 83.11%!**
 
 ---
 
@@ -11,7 +11,7 @@ This project demonstrates an image classification model built using Convolutiona
 ### **Key Highlights**:
 
 - **Dataset**: CIFAR-10 (10 classes)
-- **Accuracy**: **81.81%** test accuracy
+- **Accuracy**: **83.11%** test accuracy
 - **Framework**: TensorFlow/Keras, Python
 
 ### **Optimizations**:
